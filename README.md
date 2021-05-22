@@ -1,5 +1,4 @@
-# Client Coming soon!
-### No Names for the client yet :/
+# Silent Client Coming soon!
 ### Still Under Developement
 
 
