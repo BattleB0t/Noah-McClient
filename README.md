@@ -1,6 +1,6 @@
-# Silent Client Coming soon!
+# Melon Client Coming soon! ( Minecraft Client for Hypixel Skyblock! )
 ### Still Under Developement
-
+### Join the discord for Sneek Peeks!
 
 <img alt="GitHub" src="https://img.shields.io/github/license/NotNoahDev/Noah-McClient"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/NotNoahDev/Noah-McClient?style=flat"> <img alt="Size" src="https://img.shields.io/github/languages/code-size/NotNoahDev/Noah-McClient"> 
 
